@@ -8,7 +8,7 @@ Sinatraアプリケーションの自分向けテンプレート
 - [ ] `Gemfile`にRubyのバージョンを記入
 - [ ] Bootstrapを更新
 - [ ] jQueryを更新
-- [ ] `layout.rb`を更新
+- [ ] `views/layout.erb`を更新
   - [ ] タイトル
   - [ ] description
   - [ ] CSS, Javascript類のリンクパス
